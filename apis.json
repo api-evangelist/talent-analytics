@@ -1,0 +1,61 @@
+{
+    "name": "Talent Analytics",
+    "description": "We predict successful employees! #Workforce performance & #turnover #prehire in roles like #Sales #Finance #Banking #CallCenters & more via #predictive modeling",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1174-talent-analytics.jpg",
+    "tags": [
+        "have api",
+        "human resources",
+        "recruiting"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/talent-analytics\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Talent Analytics",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1174-talent-analytics.jpg",
+            "humanURL": "http:\/\/www.talentanalytics.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/talent-analytics-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/talent-analytics-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/swiftype.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.talentanalytics.com\/technology\/api\/feed\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.talentanalytics.com\/think-tank\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/swiftype"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/TalentAnalytics"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.talentanalytics.com\/"
+        }
+    ]
+}
